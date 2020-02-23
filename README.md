@@ -15,3 +15,7 @@ services:
       - /var/host-location:/wait
     cmd: /wait/some-file-to-wait-for
 ```
+
+Credit:
+
+<https://github.com/derekmahar/docker-compose-wait-for-file>
